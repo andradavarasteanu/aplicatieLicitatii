@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QKN3BqXoHWt1GtY3tI+io6mEKKOPog65Ijb/eK2GJgude+HyUKqsAWLCvl7YJPwx4NGlGm25fub2VI1GsCyNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andra\\OneDrive\\Documente\\AN 3 SEM 2\\PAW RECAP\\ProiectPAW_VarasteanuAndrada\\ProiectPAW_VarasteanuAndrada\\ProiectPAW_VarasteanuAndrada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andra\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\andra\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\andra\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\andra\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\andra\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\andra\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\andra\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\andra\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

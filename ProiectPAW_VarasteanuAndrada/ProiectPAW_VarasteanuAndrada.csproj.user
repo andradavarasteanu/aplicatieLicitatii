@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdaugaProd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CandidatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaCandidatiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ObiecteLicitatie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlaseazaOfertaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
